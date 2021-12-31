@@ -1,5 +1,3 @@
-export default App;
-
 import './App.css';
 import React from 'react';
 import { Route, Switch, Link } from "react-router-dom";
